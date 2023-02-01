@@ -1,0 +1,1 @@
+This Repository contains a Simple E-Voting System, which enables electronic voting during elections, which saves time, improves accuracy, and makes it convenient for voters to cast their ballots online rather than going to the polls in person.
